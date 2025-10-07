@@ -4,15 +4,11 @@
 using Markdown
 using InteractiveUtils
 
-# ╔═╡ 5280dd34-9b88-11f0-31cf-8356bef7c1b4
-print("oi mundo")
+# ╔═╡ 31a55b64-9d25-11f0-189b-c72a4c75e876
+""" +/- / x / 4 Arten von div. /  they are computer ops. Not Natural / C  """
 
-# ╔═╡ 275e8be4-b5d3-40df-8e65-7e3b6a02fa4a
-begin 
-	x = 10e6
-	y = 10e12
-	y-x
-end
+# ╔═╡ 10a15d39-9a8f-4f38-8ee7-c64dd003e0f4
+""" (Promotion / Convertions) takes place (Int8(-126)*Uint128(1)) <- einfach flex... nichst notwendiges (sprach spezifisch) """
 
 # ╔═╡ 00000000-0000-0000-0000-000000000001
 PLUTO_PROJECT_TOML_CONTENTS = """
@@ -31,7 +27,7 @@ project_hash = "da39a3ee5e6b4b0d3255bfef95601890afd80709"
 """
 
 # ╔═╡ Cell order:
-# ╠═5280dd34-9b88-11f0-31cf-8356bef7c1b4
-# ╠═275e8be4-b5d3-40df-8e65-7e3b6a02fa4a
+# ╠═31a55b64-9d25-11f0-189b-c72a4c75e876
+# ╠═10a15d39-9a8f-4f38-8ee7-c64dd003e0f4
 # ╟─00000000-0000-0000-0000-000000000001
 # ╟─00000000-0000-0000-0000-000000000002
