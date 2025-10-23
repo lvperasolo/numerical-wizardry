@@ -34,7 +34,6 @@ let
     a = eps(1.0) / 2        # ~5.551e-17
     println("eps(1.0) = ", eps(1.0))
     println("a        = ", a)
-	
     println(1 + a + a == 1)          # → true
     println(1 + (a + a) == 1)        # → false
 end
