@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Minhas notas sobre ideias que chamaram a minha atenção no curso de introdução à programação em Julia e no curso de cálculo numérico. 
+Minhas notas sobre ideias que chamaram minha atenção nos cursos de introdução à programação em Julia e de cálculo numérico. Algumas notas estão em português, outras em inglês — meio desorganizado, mas espero que ajude de alguma forma.
 
 ---
 
@@ -35,6 +35,12 @@ import Pkg; Pkg.add("Pluto"); # (função: dá para executar comandos em sequên
 ```julia
 import Pluto; Pluto.run()
 ```
+
+---
+
+## Feedback e Contato
+Deve haver inúmeros erros em minhas notas. Se você encontrar algum, por favor me avise [email](l.perasolovicentim@gmail.com).
+There are for sure mistakes in my notes, so in case you spot one, I would be more then happy to correct them, reach me via [email](l.perasolovicentim@gmail.com).
 
 ---
 

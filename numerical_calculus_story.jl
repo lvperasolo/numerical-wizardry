@@ -123,10 +123,13 @@ md"""
 
 All in all, we are interested in the following four questions, to guide us in our numerical exploration:
 
-1. How many numbers/digits can we rely on? (say, given $0.123456789$ how many are correct?)
-2. Why only this many? (i.e. frequently) why often so few digits?)
-3. Which component of our expressions/algorithm is responsible?
-4. How should I refactor the code/expression such that I get double as many correct digits (i.e., more digits in general)?
+**Q1:** How many numbers/digits can we rely on? (say, given $0.123456789$ how many are correct?)
+
+**Q2:** Why only this many? (i.e. frequently) why often so few digits?)
+
+**Q3:** Which component of our expressions/algorithm is responsible?
+
+**Q4:**  How should I refactor the code/expression such that I get double as many correct digits (i.e., more digits in general)?
 
 ---
  
@@ -149,15 +152,15 @@ project_hash = "da39a3ee5e6b4b0d3255bfef95601890afd80709"
 """
 
 # ╔═╡ Cell order:
-# ╠═bee59430-ac14-11f0-24c4-61e1dfd3a69f
+# ╟─bee59430-ac14-11f0-24c4-61e1dfd3a69f
 # ╠═30fa8b2c-63ae-42b7-89ec-2b5995b1d7b9
-# ╠═83ba85e7-07b0-41b0-b97d-324e0a7094b1
+# ╟─83ba85e7-07b0-41b0-b97d-324e0a7094b1
 # ╠═25184638-4b37-4523-8ae3-44fc938c1ae4
-# ╠═59820189-80fc-4125-b7e1-b3326510e43c
+# ╟─59820189-80fc-4125-b7e1-b3326510e43c
 # ╠═3275b053-7f3e-4e72-b372-1cdf0791b94c
-# ╠═5cbb7e93-89d2-493b-9226-3cc599f541eb
-# ╠═a6b53703-9e8c-46bb-9504-8a1c4d9706e4
+# ╟─5cbb7e93-89d2-493b-9226-3cc599f541eb
+# ╟─a6b53703-9e8c-46bb-9504-8a1c4d9706e4
 # ╠═1a539823-9b11-49be-bb28-285b38e2d0cd
-# ╠═3a8bdb3a-5a09-4e35-a73a-a7a861ea19ee
+# ╟─3a8bdb3a-5a09-4e35-a73a-a7a861ea19ee
 # ╟─00000000-0000-0000-0000-000000000001
 # ╟─00000000-0000-0000-0000-000000000002
