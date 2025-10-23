@@ -6,8 +6,16 @@ using InteractiveUtils
 
 # ╔═╡ e21902d8-be4d-49d3-bec5-e18fb16de225
 md"""
-
 # Oi, Mundo (Hello World)
+**author:** Lucas V. Perasolo [(email)](l.perasolovicentim@gmail.com)\
+**last_updated:** 23/10/2025
+
+---
+## Recursos
+
+1. Veja as respectivas fontes utilizadas nos links abaixo.
+
+---
 
 O famoso **"oi mundo"** (ou *"hello world"*) costuma ser o primeiro código que uma pessoa escreve ao começar a programar. É um simples teste para verificar se tudo está funcionando corretamente — e também uma forma simbólica de dar as boas-vindas ao mundo da programação. Nesse arquivo temos 3 maneiras de falar "oi mundo".
 

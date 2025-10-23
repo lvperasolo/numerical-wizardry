@@ -7,14 +7,26 @@ using InteractiveUtils
 # ╔═╡ bee59430-ac14-11f0-24c4-61e1dfd3a69f
 md""" # Underlying Story for Numerical Calculus
 
-- In high school and most of university modules (e.g. linear algebra and analysis), students are taught to work with **precise** "mathematical instruments" like $(+, -, *)$ etc. In real life and in numerical calculus, we start things off by accepting the imperfections of our world even in mathematical terms. So we shift the perspective and allow, e.g., to perceive mathematical operations like addition as an operation slightly imprecise.  
-- A direct consequence from this new perspective is the fact that some math. properties do not hold anymore (at least not in the fundamental way we are used too)... For example, from Analysis we are nudged to belive that the associative and commutative properties are valid in other application settings, however, it suffices to take your calculator and check that the associative property does not hold in it:
+**author:** Lucas V. Perasolo [(email)](l.perasolovicentim@gmail.com)\
+**last_updated:** 23/10/2025
 
-**Associative property**
+---
+
+## Resources for this Script
+
+1. Personal notes based on Prof. Dr. Christian Ludwig's ideas
+2. Refer to specific resources listed in the sections below
+
+---
+
+- In high school and most university modules (e.g., linear algebra and analysis), students are taught to work with **precise** "mathematical instruments" like $(+, -, *)$, etc. In real life and in numerical calculus, we start by accepting the imperfections of our world even in mathematical terms. Thus, we shift our perspective and allow, for instance, perceiving mathematical operations like addition as slightly imprecise operations.  
+- A direct consequence of this new perspective is that some mathematical properties do not hold anymore (at least not in the fundamental way we are used to). For example, from Analysis, we are taught to believe that associative and commutative properties are valid in other application settings; however, it suffices to take your calculator and check that the associative property does not hold:
+
+**Associative Property**
 
 $(a + b) + c \overset{(?)}{=} a + (b + c) \quad \forall a,b,c \in \mathbb{R}$
 
-Holds in the world of analysis, linear algebra etc, but not in the world of computer arithmetic, as the next example portrays:
+Holds in the world of analysis, linear algebra, etc., but not in the world of computer arithmetic, as the next example portrays:
 """
 
 # ╔═╡ 30fa8b2c-63ae-42b7-89ec-2b5995b1d7b9
